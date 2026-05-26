@@ -1,0 +1,6 @@
+[INFO] peer 616c6963650000000000000000000000 on :7011, data dir 'a'
+[INFO] registered with tracker 127.0.0.1:6882
+>>> share a/big.bin
+Shared 'big.bin' (8388608 bytes, 128 chunks)
+  hash: 3b374423a34cb67ec30fbd4a1522db194f5533ac6d9c53c62b593b427df06673
+>>> quit

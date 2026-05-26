@@ -1,0 +1,6 @@
+[INFO] peer 616c6963650000000000000000000000 on :7001, data dir 'a'
+[INFO] registered with tracker 127.0.0.1:6881
+>>> share a/movie.bin
+Shared 'movie.bin' (4194304 bytes, 64 chunks)
+  hash: a7c9d9c5b8a70811cbeb9bb793870eddc94f10e7deefd251228bd9a57ec5073d
+>>> quit
