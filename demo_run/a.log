@@ -2,5 +2,5 @@
 [INFO] registered with tracker 127.0.0.1:6881
 >>> share a/movie.bin
 Shared 'movie.bin' (4194304 bytes, 64 chunks)
-  hash: a7c9d9c5b8a70811cbeb9bb793870eddc94f10e7deefd251228bd9a57ec5073d
+  hash: 44c97246e06fb2d259dc34a43700abe70a6df15d8ec6b761bdfc1de2557bd9d7
 >>> quit
