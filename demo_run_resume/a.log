@@ -2,5 +2,5 @@
 [INFO] registered with tracker 127.0.0.1:6882
 >>> share a/big.bin
 Shared 'big.bin' (8388608 bytes, 128 chunks)
-  hash: 3b374423a34cb67ec30fbd4a1522db194f5533ac6d9c53c62b593b427df06673
+  hash: 56f0df04c0796453d5bad9a75ae3cd21f3a633c685e93014595265bec1674ba5
 >>> quit
